@@ -2,7 +2,7 @@ import media2
 import fresh_tomatoes
 
 '''Schindler's List'''
-schindlers_list = media2.Movie("Schindler's List",
+schindlers_list = media.Movie("Schindler's List",
                                "History",
                                "195 minutes",
                                "8.9",
@@ -12,7 +12,7 @@ schindlers_list = media2.Movie("Schindler's List",
 
 '''The Sound of Music '''
 
-sound_of_music = media2.Movie("The Sound of Music",
+sound_of_music = media.Movie("The Sound of Music",
                               "Drama",
                               "174 minutes",
                               "8.0",
@@ -22,7 +22,7 @@ sound_of_music = media2.Movie("The Sound of Music",
                               
 '''West Side Story'''
 
-west_side_story = media2.Movie("West Side Story",
+west_side_story = media.Movie("West Side Story",
                               "Drama",
                               "174 minutes",
                               "8.0",
@@ -34,7 +34,7 @@ west_side_story = media2.Movie("West Side Story",
 
 '''Titanic'''
 
-titanic = media2.Movie("Titanic",
+titanic = media.Movie("Titanic",
                       "Drama",
                       "174 minutes",
                       "8.0",
@@ -44,7 +44,7 @@ titanic = media2.Movie("Titanic",
 
 '''Alien'''
 
-alien = media2.Movie("Alien",
+alien = media.Movie("Alien",
                     "Science Fiction",
                     "177 minutes",
                     "8.5",
@@ -55,7 +55,7 @@ alien = media2.Movie("Alien",
 
 '''The Dark Knight'''
 
-dark_knight = media2.Movie("The Dark Knight",
+dark_knight = media.Movie("The Dark Knight",
                          "Action",
                          "152 minutes",
                          "9.0",
@@ -65,7 +65,7 @@ dark_knight = media2.Movie("The Dark Knight",
 
 "Gladiator"
 
-gladiator = media2.Movie("Gladiator",
+gladiator = media.Movie("Gladiator",
                         "Action",
                         "127 minutes",
                         "8.1",
@@ -75,7 +75,7 @@ gladiator = media2.Movie("Gladiator",
 
 '''Jurassic Park'''
 
-jurassic_park = media2.Movie("Jurassic Park",
+jurassic_park = media.Movie("Jurassic Park",
                             "Adventure",
                             "127 minutes",
                             "8.1",
