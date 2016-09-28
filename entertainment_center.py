@@ -87,4 +87,3 @@ movies = [schindlers_list, sound_of_music, west_side_story,
 
 # opens each of the movies in the above list in the fresh_tomatoes page
 fresh_tomatoes.open_movies_page(movies)
-
