@@ -7,7 +7,7 @@ schindlers_list = media.Movie("Schindler's List",
                               "History",
                               "195 minutes",
                               "8.9",
-                              "http://www.spacemov.net/wp-content/uploads/2014/06/schindlers-list-656694l.jpg",  # noqa
+                              "http://hdmovies.name/wp-content/uploads/2015/05/schindlers-list-656694l.jpg",  # noqa
                               "https://www.youtube.com/watch?v=JdRGC-w9syA",
                               "1993")
 
